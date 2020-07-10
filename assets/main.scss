@@ -1,0 +1,29 @@
+---
+---
+
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");
+@import "minima";
+
+body {
+  font-family: "Inconsolata", sans-serif;
+  font-size: 1em;
+}
+
+.heading {
+  font-size: 1.2em;
+}
+
+.post-list {
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+    .post-meta {
+      font-size: 14px;
+      line-height: normal;
+    }
+    .post-link {
+      font-size: inherit;
+    }
+  }
+}
