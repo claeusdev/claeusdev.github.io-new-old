@@ -7,9 +7,7 @@ permalink: /about/
 <div class="mt5">
   <p class="f4 tl measure-narrow lh-copy">
   Hey 👋🏿, I’m Nana. I’m a Software Engineer currently living in Accra, 
-  Ghana. Currently, I'm a Software Engineer at Petra Trust where i work on a dedicated in house CRM team. I enjoy working on both 
-UI and the backend, .
-  </p>
+  Ghana. Currently, I work at Andela.</p>
 </div>
 <div class="mt5">
   <h1 class="b dib w-auto highlight-header">Experience</h1>
