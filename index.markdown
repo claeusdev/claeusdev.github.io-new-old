@@ -7,7 +7,7 @@ layout: default
 
 <div class="mt5">
   <p class="lh-copy f4 tl measure-narrow">
-    Nana is an Accra-based software engineer, currently working at Petra Trust.
+    Nana is an Accra-based software engineer, currently working at Andela.
   </p>
 </div>
 
